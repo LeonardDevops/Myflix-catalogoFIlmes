@@ -13,6 +13,8 @@ Lista de Favoritos: Os usuários podem salvar filmes em uma lista de favoritos, 
 
 Bibliotecas de Alertas: São utilizadas bibliotecas de alertas para proporcionar mensagens visuais claras sobre ações realizadas pelo usuário.
 
+Link do App: https://myflix-catalogo-f-ilmes.vercel.app/
+
 
 # Getting Started with Create React App
 
