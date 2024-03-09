@@ -1,3 +1,19 @@
+
+Catálogo de Filmes em Cartaz
+Este projeto é um site de catálogo de filmes em cartaz, desenvolvido com ReactJS. Utiliza rotas e componentes reutilizáveis para proporcionar uma experiência de usuário intuitiva. Além disso, incorpora bibliotecas de alertas para fornecer feedback instantâneo sobre a ação do usuário, especialmente ao salvar filmes na lista de favoritos.
+
+Características Principais
+ReactJS: A biblioteca React foi utilizada para criar uma aplicação eficiente e de alto desempenho.
+
+Rotas: O site incorpora navegação com rotas para facilitar a exploração do catálogo de filmes.
+
+Componentes Reaproveitáveis: Os componentes foram projetados para serem reutilizáveis, aumentando a modularidade e facilitando a manutenção.
+
+Lista de Favoritos: Os usuários podem salvar filmes em uma lista de favoritos, com feedback instantâneo sobre a inclusão ou remoção do filme.
+
+Bibliotecas de Alertas: São utilizadas bibliotecas de alertas para proporcionar mensagens visuais claras sobre ações realizadas pelo usuário.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
